@@ -1,1 +1,1 @@
-[profile] (https://github.com/c3s357)
+[profile](https://github.com/c3s357)
