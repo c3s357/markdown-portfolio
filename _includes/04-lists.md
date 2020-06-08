@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. :sparkles:
+2. :smile:
+  1. Leggere
+  2. Studiare nuovi argomenti
